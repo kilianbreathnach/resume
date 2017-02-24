@@ -1,14 +1,57 @@
 body {
     font-family: 'EB Garamond';
-    font-size: 62.5%;
+    font-size: 12pt;
 }
 
+h1 {
+    font-size: 36pt;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24pt;
+    color: #00544F;
+}
 
 p {
-    font-size: 3em;
+    font-size: 12pt;
+    text-align: left;
 }
 
 p img {
     height: 1em;
     width: auto;
+}
+
+dl {
+    float: left;
+    padding: 0;
+    width: 100%;
+    margin: 0;
+}
+
+dt {
+    clear: left;
+    float: left;
+    width: 17%;
+    margin: 0;
+    padding: 0;
+}
+
+dd {
+    float: left;
+    width: 83%;
+    padding: 0;
+    margin: 0;
+}
+
+/*
+ul {
+    list-style-position: inside;
+    padding: 0;
+}
+
+/*
+li {
+    margin-left: -10px;
 }
