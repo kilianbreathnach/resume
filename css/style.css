@@ -1,21 +1,49 @@
 body {
     font-family: 'EB Garamond';
-    font-size: 12pt;
+    font-size: 10pt;
+    margin: 0;
+    padding: 0;
+}
+
+#page-wrap {
+    width: 612pt;
+    margin: 2% auto 3%;
 }
 
 h1 {
-    font-size: 36pt;
+    font-size: 2.2em;
     text-align: center;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
 }
 
-h2 {
-    font-size: 24pt;
-    color: #00544F;
+h3 {
+    font-size: 2.0em;
+    color: #012C34;
+    margin: 0 0 0.2em 0;
+    padding: 0 0 0 0;
+}
+
+h3:before {
+    content: "";
+    display: inline-block;
+    width: 17%;
+    height: 2.0em;
+    margin 0 0 0 0;
+    padding 0 0 0.2em 0;
+/*    border-bottom: 0.1em solid #0F444F; */
 }
 
 p {
-    font-size: 12pt;
+    font-size: 1.2em;
     text-align: left;
+    margin: 0 0 0.2em 0;
+    padding: 0 0 0 0;
+}
+
+.deets {
+    font-size: 1.2em;
+    text-align: center;
 }
 
 p img {
@@ -25,33 +53,39 @@ p img {
 
 dl {
     float: left;
-    padding: 0;
     width: 100%;
-    margin: 0;
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
 }
 
 dt {
     clear: left;
     float: left;
     width: 17%;
-    margin: 0;
-    padding: 0;
+    margin: 0.2em 0 0 0;
+    padding: 0 1em 0 0;
+    text-align: right;
+}
+
+dt span {
+    color: #437983;
 }
 
 dd {
     float: left;
-    width: 83%;
-    padding: 0;
-    margin: 0;
+    width: 79%;
+    padding: 0 0 1em 1em;
+    margin: 0 0 0 0;
+    border-left: 2px solid #0F444F;
+    font-size: 1em;
 }
 
-/*
 ul {
-    list-style-position: inside;
-    padding: 0;
+    padding-left: 1.4em;
+    font-size: 1.1em;
+    margin: 0 0 0 0;
 }
-
 /*
 li {
-    margin-left: -10px;
+    margin-left: -1.5%;
 }
