@@ -20,7 +20,7 @@
 
 
 Physics PhD with strengths in statistical modeling and inference, programming in python and C/C++ in Linux, numerical simulation and data-hacking.
-Passionate about the latest technology, developments in software tools and data science methods.
+Open source enthusiast and contributor, passionate about the latest technology, developments in software tools and data science methods.
 Experienced educator and team worker, communicating complex topics at technical and lay levels.
 Speaks English and German fluently, some French and basic Mandarin.
 Enjoys sports (esp. swimming, cycling), woodwork (incl. musical instruments - have built a celtic harp), gardening, brewing, baking, reading, and civic engagement.
@@ -55,7 +55,7 @@ __New York University__ </br> <span>*May 2013 - Present*</span>
 __Various Locations__ </br> <span>*2012 - Present*</span>
 :   __Data-hacking projects__
 
-    - Participated (in groups and alone) in several hackathons, classwork, and personal projects with diverse datasets (astronomy, web, NYC public, financial, hardware sensors) to study trends and to understand and test novel techniques and models
+    - Participated (in groups and alone) in several hackathons, classwork, and personal projects with diverse datasets (astronomy, web, NYC public, financial, hardware sensors) to study trends and to understand and test novel techniques and models. Have made contributions to widely-used astronomy software.
     - *Skills:* Data-mining, statistical modeling, machine learning, data visualisation, financial modeling, deep learning, project presentation
     - *Tools:* python, git, javascript, julia, R, SQL, Hadoop, AWS, MongoDB, arduino, raspberry pi, and more, generally stay current on developments in tech tools
 
@@ -63,7 +63,7 @@ __New York University__ </br> <span>*Mar 2012 - Aug 2013*</span>
 :   __Probabilistic Sky Catalogue (with Prof. David Hogg)__
 
     - Modeling crowdsourced astronomical images with tools from <a href="http://astrometry.net/">`astrometry.net`</a> and <a href="http://thetractor.org/">`thetractor.org`</a> to build a probabilistic catalogue of astronomical objects from 100k+ images
-    - *Skills:* Statistical modeling, programming, data mining and analysis, model selection, data visualisation
+    - *Skills:* Statistical modeling, data mining, visualisation, model selection
 
 __University of Aarhus, Denmark__ </br> <span>*Sep 2010 - Jan 2011*</span>
 :   __Asteroseismology thesis project (with Prof. Jørgen Christensen-Dalsgaard)__
