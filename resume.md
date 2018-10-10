@@ -19,7 +19,7 @@
 <br>
 
 
-Physics PhD with strengths in statistical modeling and inference, programming in python and C/C++ in Linux, numerical simulation and data-hacking.
+Physics PhD with strengths in statistical modeling and inference; programming in julia, python, and C/C++ in Linux; numerical simulation; and data-hacking.
 Open source enthusiast and contributor, passionate about the latest technology, developments in software tools and data science methods.
 Experienced educator and team worker, communicating complex topics at technical and lay levels.
 Speaks English and German fluently, some French and basic Mandarin.
@@ -50,14 +50,14 @@ __New York University__ </br> <span>*May 2013 - Present*</span>
     - Projects involving statistical modeling of galaxy data from the largest survey made to date (SDSS) as part of a large scientific collaboration (1000s of researchers), in order to understand the universe's underlying dark matter structure and how it affects the galaxy distribution
     - *Skills:* Mathematical modeling, Bayesian inference, large datasets, MCMC, numerical simulation, parallel computing
     - *Achievements:* Made scientific-grade measurements and analysis for several papers, presented at conferences across USA, mentored student researchers
-    - *Tools:* python (scipy, cython, emcee, matplotlib...), C, Linux, bash, vim, MPI, SQL
+    - *Tools:* julia, python (scipy, cython, emcee, matplotlib...), C, bash, PBS, MPI, SQL
 
 __Various Locations__ </br> <span>*2012 - Present*</span>
 :   __Data-hacking projects__
 
     - Participated (in groups and alone) in several hackathons, classwork, and personal projects with diverse datasets (astronomy, web, NYC public, financial, hardware sensors) to study trends and to understand and test novel techniques and models. Have made contributions to widely-used astronomy software.
     - *Skills:* Data-mining, statistical modeling, machine learning, data visualisation, financial modeling, deep learning, project presentation
-    - *Tools:* python, git, javascript, julia, R, SQL, Hadoop, AWS, MongoDB, arduino, raspberry pi, and more, generally stay current on developments in tech tools
+    - *Tools:* python, git, javascript, julia, R, SQL, Hadoop, AWS, pytorch, raspberry pi, and more, generally staying current on developments in tech tools
 
 __New York University__ </br> <span>*Mar 2012 - Aug 2013*</span>
 :   __Probabilistic Sky Catalogue (with Prof. David Hogg)__
