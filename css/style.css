@@ -7,11 +7,11 @@ body {
 
 #page-wrap {
     width: 612pt;
-    margin: 1% auto 1%;
+    margin: 2% auto 2%;
 }
 
 h1 {
-    font-size: 2.2em;
+    font-size: 2.0em;
     text-align: center;
     margin: 0 0 0 0;
     padding: 0 0 0 0;
@@ -27,7 +27,7 @@ h3 {
 h3:before {
     content: "";
     display: inline-block;
-    width: 17%;
+    width: 15%;
     height: 2.0em;
     margin 0 0 0 0;
     padding 0 0 0.2em 0;
@@ -36,8 +36,8 @@ h3:before {
 
 p {
     font-size: 1.1em;
-    text-align: left;
-    margin: 0 0 0.15em 0;
+    text-align: justify;
+    margin: 0 1.1em 0.15em 1.1em;
     padding: 0 0 0 0;
 }
 
@@ -63,7 +63,7 @@ dl {
 dt {
     clear: left;
     float: left;
-    width: 17%;
+    width: 15%;
     margin: 0.2em 0 0 0;
     padding: 0 1em 0 0;
     text-align: right;
@@ -75,7 +75,7 @@ dt span {
 
 dd {
     float: left;
-    width: 79%;
+    width: 82%;
     padding: 0 0 1em 1em;
     margin: 0 0 0 0;
     border-left: 2px solid #0F444F;
