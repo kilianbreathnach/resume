@@ -19,20 +19,20 @@
 <br>
 
 
-Astrophysicist-turned-ML-scientist-engineer, statistical modeling and inference, deep learning and computer vision, building data pipelines, writing julia, python, C/C++ in Linux, numerical simulation, data engineering.
+Astrophysicist-turned-ML-scientist-engineer, proficient in statistical modeling, deep learning for computer vision and NLP, data engineering for ML infrastructure. Primary languages used are python, julia, C/C++ in Linux.
 Open source contributor, passionate about the latest technology, developments in software tools and data science methods.
 Experienced educator and team worker, communicating complex topics at technical and lay levels.
 Speaks English and German fluently, some French and basic Mandarin.
-Enjoys sports (esp. swimming, cycling), woodwork (incl. musical instruments - have built a celtic harp), bicycle/motorcycle maintenance, gardening, brewing and baking, reading, volunteering and civic engagement.
+Enjoys sports (esp. swimming, cycling), woodwork (incl. boats, and musical instruments), bicycle/motorcycle maintenance, gardening, brewing and baking, reading, volunteering and civic engagement.
 
 
 ### Work
 
-__Whiteboard Coordinator__ </br> <span>*Mar 2019 - Present* </span>
+__Artisight Inc.__ </br> <span>*Mar 2019 - Present* </span>
 :   __Machine Learning Scientist-Engineer__
 
-    - wearing many hats in an early stage (team of <10) medical technology startup
-    - built entire research and deployment infrastructure for computer vision in hospitals from the ground up
+    - wearing many hats in an early stage (starting team of <10) medical technology startup
+    - built entire research and deployment infrastructures end-to-end for computer vision and NLP in hospitals
     - experience with fast-paced, high intensity environments, demoing and deploying for clients and investors
 
 
@@ -53,12 +53,13 @@ __Trinity College Dublin__ </br> <span>*Sep 2007 - Jun 2011*</span>
 
 ### Research & Projects
 
-__Whiteboard Coordinator__ </br> <span>*March 2019 - Present*</span>
-:   __Computer Vision research and ML infrastructure engineering__
+__Artisight Inc.__ </br> <span>*March 2019 - Present*</span>
+:   __Computer Vision and NLP research and ML infrastructure engineering__
 
     - developing and implementing computer vision algorithms to deploy in medical facilities for their improved operating efficiency
-    - *Skills:*  deep learning, computer vision, data pipeline engineering, analytical research, project management
-    - *Achievements:* Significant accuracy and efficiency of CV models, building robust infrastructure to put models in production
+    - employing NLP models for virtual assistant systems
+    - *Skills:*  deep learning, computer vision, object detection, SIP, audio processing, NLU, data pipeline engineering, analytical research, project management
+    - *Achievements:* Significant accuracy and efficiency of models, built robust infrastructure to deploy on site
     - *Tools:* pytorch, caffe, docker, Azure, CUDA, C/C++, django, flask, rabbitmq
 
 __New York University__ </br> <span>*May 2013 - Jan 2019*</span>

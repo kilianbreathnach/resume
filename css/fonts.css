@@ -2,13 +2,13 @@
   font-family: 'EB Garamond';
   font-weight: 400;
   font-style: normal;
-  src: url('/fonts/EB-Garamond-regular/EB-Garamond-regular.eot');
+  src: 'file://./fonts/EB-Garamond-regular/EB-Garamond-regular.eot';
   src: url('/fonts/EB-Garamond-regular/EB-Garamond-regular.eot?#iefix') format('embedded-opentype'),
        local('EB Garamond'),
        local('EB-Garamond-regular'),
-       url('/fonts/EB-Garamond-regular/EB-Garamond-regular.woff2') format('woff2'),
-       url('/fonts/EB-Garamond-regular/EB-Garamond-regular.woff') format('woff'),
-       url('/fonts/EB-Garamond-regular/EB-Garamond-regular.ttf') format('truetype'),
-       url('/fonts/EB-Garamond-regular/EB-Garamond-regular.svg#EBGaramond') format('svg');
+       './fonts/EB-Garamond-regular/EB-Garamond-regular.woff2' format('woff2'),
+       '/fonts/EB-Garamond-regular/EB-Garamond-regular.woff' format('woff'),
+       '/fonts/EB-Garamond-regular/EB-Garamond-regular.ttf' format('truetype'),
+       '/fonts/EB-Garamond-regular/EB-Garamond-regular.svg#EBGaramond' format('svg');
 }
 

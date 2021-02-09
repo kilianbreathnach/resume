@@ -6,4 +6,4 @@ with css files for styling, it can be translated into html format using
 
 I then make a printable pdf document from this with `wkhtmltopdf` using
 
-`wkhtmltopdf -L 1mm -R 1mm -T 1mm -B 1mm --page-size Letter resume.html resume.pdf`
+`wkhtmltopdf -L 1mm -R 1mm -T 1mm -B 1mm --page-size Letter --enable-local-file-access resume.html resume.pdf`
