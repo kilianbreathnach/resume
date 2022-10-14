@@ -23,7 +23,7 @@ Astrophysicist-turned-ML-scientist-engineer, proficient in statistical modeling,
 Open source contributor, passionate about the latest technology, developments in software tools and data science methods.
 Experienced educator and team worker, communicating complex topics at technical and lay levels.
 Speaks English and German fluently, some French and basic Mandarin.
-Enjoys sports (esp. swimming, cycling), woodwork (incl. boats, and musical instruments), bicycle/motorcycle maintenance, gardening, brewing and baking, reading, volunteering and civic engagement.
+Enjoys sports (esp. swimming, cycling), woodwork (incl. boats, timber frame structures, and musical instruments), bicycle/motorcycle maintenance, gardening, brewing and baking, reading, volunteering and civic engagement.
 
 
 ### Work
@@ -31,7 +31,7 @@ Enjoys sports (esp. swimming, cycling), woodwork (incl. boats, and musical instr
 __Artisight Inc.__ </br> <span>*Mar 2019 - Present* </span>
 :   __Machine Learning Scientist-Engineer__
 
-    - wearing many hats in an early stage (starting team of <10) medical technology startup
+    - wearing many hats in an early stage (starting headcount of 5) medical technology startup
     - built entire research and deployment infrastructures end-to-end for computer vision and NLP in hospitals
     - experience with fast-paced, high intensity environments, demoing and deploying for clients and investors
 
@@ -56,11 +56,11 @@ __Trinity College Dublin__ </br> <span>*Sep 2007 - Jun 2011*</span>
 __Artisight Inc.__ </br> <span>*March 2019 - Present*</span>
 :   __Computer Vision and NLP research and ML infrastructure engineering__
 
-    - developing and implementing computer vision algorithms to deploy in medical facilities for their improved operating efficiency
+    - building computer vision algorithms deployed in hospital automation systems
     - employing NLP models for virtual assistant systems
-    - *Skills:*  deep learning, computer vision, object detection, SIP, audio processing, NLU, data pipeline engineering, analytical research, project management
+    - *Skills:*  deep learning, self-supervised learning, computer vision, object detection, audio processing, NLU, data pipeline engineering, project management
     - *Achievements:* Significant accuracy and efficiency of models, built robust infrastructure to deploy on site
-    - *Tools:* pytorch, caffe, docker, Azure, CUDA, C/C++, django, flask, rabbitmq
+    - *Tools:* pytorch, caffe, hydra, docker, Azure, CUDA, C/C++, django, flask, rabbitmq, kafka
 
 __New York University__ </br> <span>*May 2013 - Jan 2019*</span>
 :   __Cosmological large scale structure and galaxy evolution (with Prof. Jeremy Tinker and David Hogg)__
@@ -93,5 +93,5 @@ __UC Santa Barbara, California__ </br> <span>*Jun 2010 - Sep 2010*</span>
 :   __Studying structure and function of Proteorhodopsin in Songi Han lab__
 
     - *Skills:*  DNA mutation, protein expression and isolation, MRI signal analysis, presentation
-    - This project was done as part of a competitive research experience funded by Biomedical Diagnostics Institute in Dublin, Ireland
+    - Part of a competitive research experience funded by Biomedical Diagnostics Institute in Ireland
 </div>
