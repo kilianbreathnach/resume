@@ -19,11 +19,11 @@
 <br>
 
 
-Astrophysicist-turned-ML-scientist-engineer, proficient in statistical modeling, deep learning for computer vision and NLP, data engineering for ML infrastructure. Primary languages used are python, julia, C/C++ in Linux.
+Astrophysicist-turned-ML-scientist-engineer, proficient in statistical modeling, deep learning for computer vision and NLP, data engineering, and MLOps. Primary languages are python, julia, C/C++ in Linux.
 Open source contributor, passionate about the latest technology, developments in software tools and data science methods.
-Experienced educator and team worker, communicating complex topics at technical and lay levels.
-Speaks English and German fluently, some French and basic Mandarin.
-Enjoys sports (esp. swimming, cycling), woodwork (incl. boats, timber frame structures, and musical instruments), bicycle/motorcycle maintenance, gardening, brewing and baking, reading, volunteering and civic engagement.
+Experienced educator and team collaborator, communicating complex topics at technical and lay levels.
+Speaks English and German fluently, intermediate French and basic Mandarin and Swahili.
+Enjoys sports (esp. swimming, cycling, sailing), woodwork (incl. boats, timber framing, and musical instruments), bicycle/motorcycle maintenance, gardening, brewing and baking, reading, volunteering and civic engagement.
 
 
 ### Work
@@ -31,8 +31,8 @@ Enjoys sports (esp. swimming, cycling), woodwork (incl. boats, timber frame stru
 __Artisight Inc.__ </br> <span>*Mar 2019 - Present* </span>
 :   __Machine Learning Scientist-Engineer__
 
-    - wearing many hats in an early stage (starting headcount of 5) medical technology startup
-    - built entire research and deployment infrastructures end-to-end for computer vision and NLP in hospitals
+    - wearing many hats in an early stage (starting headcount of 5) healthcare technology startup
+    - built entire research and end-to-end deployment of on-prem infrastructures for IoT sensor data in hospitals
     - experience with fast-paced, high intensity environments, demoing and deploying for clients and investors
 
 
@@ -48,19 +48,19 @@ __Trinity College Dublin__ </br> <span>*Sep 2007 - Jun 2011*</span>
 :   __B.A. -- Natural Science (Physics & Astrophysics major) with First Class Honours__
 
     - Final year dissertation project completed at University of Aarhus in Denmark
-    - Completed voluntary advanced exams to win competitive Foundation Scholarship, granting free tuition, housing, meals, and stipend
+    - Sat voluntary advanced exams to win competitive _Foundation Scholarship_, granting free tuition, housing, meals, and stipend
 
 
 ### Research & Projects
 
 __Artisight Inc.__ </br> <span>*March 2019 - Present*</span>
-:   __Computer Vision and NLP research and ML infrastructure engineering__
+:   __Computer Vision and Natural Language research and ML infrastructure engineering__
 
     - building computer vision algorithms deployed in hospital automation systems
-    - employing NLP models for virtual assistant systems
-    - *Skills:*  deep learning, self-supervised learning, computer vision, object detection, audio processing, NLU, data pipeline engineering, project management
+    - employing NLP and dialogue models for virtual assistant systems
+    - *Skills:*  deep learning, self-supervised learning, computer vision, object detection, audio processing, NLU, data pipeline engineering, MLOps, project management
     - *Achievements:* Significant accuracy and efficiency of models, built robust infrastructure to deploy on site
-    - *Tools:* pytorch, caffe, hydra, docker, Azure, CUDA, C/C++, django, flask, rabbitmq, kafka
+    - *Tools:* pytorch, caffe, hydra, docker, Azure, CUDA, NVIDIA TensorRT and Triton, NVIDIA TAO, C/C++, django, flask, rabbitmq, kafka
 
 __New York University__ </br> <span>*May 2013 - Jan 2019*</span>
 :   __Cosmological large scale structure and galaxy evolution (with Prof. Jeremy Tinker and David Hogg)__
@@ -74,7 +74,7 @@ __Various Locations__ </br> <span>*2012 - Present*</span>
 :   __Data-hacking projects__
 
     - Participated in hackathons, classwork, and personal projects with diverse datasets (astronomy, web, gov/geo, financial, hardware sensors) to study trends and to understand and test novel techniques and models.
-    - *Skills:* Data-mining, statistical modeling, machine learning, data visualisation, financial modeling, deep learning, project presentation
+    - *Skills:* Data-mining, statistical modeling, data visualisation, financial modeling, deep learning, project presentation
     - *Tools:* python, git, javascript, julia, R, SQL, Hadoop, AWS, pytorch, raspberry pi, and more, generally staying current on developments in tech tools
 
 __New York University__ </br> <span>*Mar 2012 - Aug 2013*</span>
