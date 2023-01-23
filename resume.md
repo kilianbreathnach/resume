@@ -28,7 +28,7 @@ Enjoys sports (esp. swimming, cycling, sailing), woodwork (incl. boats, timber f
 
 ### Work
 
-__Artisight Inc.__ </br> <span>*Mar 2019 - Present* </span>
+__Artisight Inc.__ </br> <span>*Mar 2019 - Oct 2022* </span>
 :   __Machine Learning Scientist-Engineer__
 
     - wearing many hats in an early stage (starting headcount of 5) healthcare technology startup
