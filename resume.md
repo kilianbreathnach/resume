@@ -31,7 +31,7 @@ Enjoys sports (esp. swimming, cycling, sailing), woodwork (incl. boats, timber f
 __Artisight Inc.__ </br> <span>*Mar 2019 - Oct 2022* </span>
 :   __Machine Learning Scientist-Engineer__
 
-    - wearing many hats in an early stage (starting headcount of 5) healthcare technology startup
+    - wearing many hats in an early stage (joined at headcount of 5, left at 60+) healthcare technology startup
     - built entire research and end-to-end deployment of on-prem infrastructures for IoT sensor data in hospitals
     - experience with fast-paced, high intensity environments, demoing and deploying for clients and investors
 
