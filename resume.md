@@ -2,7 +2,7 @@
 
 # Kilian Walsh
 
-<p class="deets"> 341 Lincoln Road, Brooklyn, NY 11225 • (646) 363 - 5779 • kiliantics@gmail.com </p>
+<p class="deets"> 350 Sterling Street, Brooklyn, NY 11225 • (646) 363 - 5779 • kiliantics@gmail.com </p>
 
 <p class="deets">
   <img src="assets/octo.svg">
@@ -28,7 +28,7 @@ Enjoys sports (esp. swimming, running, sailing), woodwork (incl. boats, japanese
 
 ### Work
 
-__Helm.AI__ </br> <span>*May 2023 - Present* </span>
+__Helm.AI__ </br> <span>*May 2023 - Feb 2025* </span>
 :   __Machine Learning Engineer__
 
     - Working in the solutions engineering team at an (100+ headcount) autonomous vehicle startup on client-facing projects
@@ -63,7 +63,7 @@ __Helm.AI__ </br> <span>*May 2023 - Present* </span>
     - building and traning perception software deployed on vehicles in the automotive and adjacent industries
     - adapting trained models and SDK for use with a range of hardware platforms and performance specifications
     - contributing to in house tooling for data management and model development and deployment
-    - *Skills:*  deep learning, unsupervised learning, image segmentation, MLOps, robotics
+    - *Skills:*  deep learning foundation models, unsupervised learning, generative AI, MLOps, robotics
     - *Tools:* pytorch, docker, GCP, CUDA, NVIDIA TensorRT, ONNX, C/C++, Weights & Biases, github CI/CD, UNet, Transformers, ROS
 
 __Artisight Inc.__ </br> <span>*March 2019 - October 2022*</span>
